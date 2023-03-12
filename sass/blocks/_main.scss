@@ -11,10 +11,6 @@ main {
     .wrapper {
         margin-top: 20px;
         width: 100%;
-        // display: flex;
-        // flex-wrap: wrap;
-        // justify-content: space-evenly;
-        // align-items: flex-start;
     }
 
 
@@ -28,7 +24,6 @@ main {
         cursor: pointer;
         transition: all 0.4s ease;
         text-decoration: none;
-        // max-width: 290px;
 
         &:hover {
             box-shadow: 3px 3px 6px #333;

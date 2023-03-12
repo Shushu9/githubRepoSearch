@@ -20,4 +20,17 @@
             display: none;
         }
     }
+
+    main {
+        .card {
+            margin-right: 0;
+            margin-left: 0;
+            padding-right: 0;
+
+            &__info {
+                margin-left: 10px;
+                font-size: 12px
+            }
+        }
+    }
 }
