@@ -75,7 +75,7 @@ function renderCards(item) {
                 <img src="${elem.owner.avatar_url}" alt="owner avatar">
             </div>
             <div class="card__info">
-                <div class="card__name">Owner/Repositury: ${elem.full_name}</div>
+                <div class="card__name">Owner/Repository: ${elem.full_name}</div>
                 <div class="card__desc">Description: ${elem.description}
                 </div>
                 <div class="card__lang">Language: ${elem.language}</div>

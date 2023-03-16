@@ -1,3 +1,5 @@
+[Deployment](https://shushu9.github.io/githubRepoSearch/)
+
 Блок с поиском репозиториев github по подстроке
 Документация по работе с API здесь:
 https://docs.github.com/en/rest/search?apiVersion=2022-11-28
